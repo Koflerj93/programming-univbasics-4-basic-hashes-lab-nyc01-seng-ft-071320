@@ -18,6 +18,6 @@ end
 
 def id_hash_generator(number)
   ran_num = {
-    id: "451"
+    id: 5
   }
 end
