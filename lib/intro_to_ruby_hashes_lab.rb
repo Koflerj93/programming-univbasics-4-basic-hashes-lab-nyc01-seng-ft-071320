@@ -6,7 +6,7 @@ def my_hash
   students = {
     :name => "Joe"
   }
-  s\return students
+  return students
 end
 
 def pioneer
